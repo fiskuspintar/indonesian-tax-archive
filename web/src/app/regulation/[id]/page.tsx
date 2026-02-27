@@ -3,13 +3,10 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { 
   ArrowLeft, 
-  Download, 
   FileText,
   Calendar,
   Hash,
   Scale,
-  Printer,
-  Share2
 } from 'lucide-react'
 
 // Generate static params for all regulations
@@ -77,32 +74,6 @@ export default function RegulationPage({ params }: { params: { id: string } }) {
               </h1>
               
               <p className="text-gray-600 mt-2">{regulation.subject}</p>
-            </div>
-            
-            <div className="flex items-center gap-2">
-              <button 
-                onClick={() => window.print()}
-                className="p-2 text-gray-500 hover:bg-gray-100 rounded-lg transition-colors"
-                title="Cetak"
-              >
-                <Printer className="w-5 h-5" />
-              </button>
-              
-              <button 
-                className="p-2 text-gray-500 hover:bg-gray-100 rounded-lg transition-colors"
-                title="Bagikan"
-                onClick={() => {
-                  if (navigator.share) {
-                    navigator.share({
-                      title: `${regulation.type} ${regulation.number || ''}`,
-                      text: regulation.subject,
-                      url: window.location.href,
-                    })
-                  }
-                }}
-              >
-                <Share2 className="w-5 h-5" />
-              </button>
             </div>
           </div>
         </div>
