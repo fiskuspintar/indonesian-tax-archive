@@ -1,0 +1,1432 @@
+[01:43:37] ============================================================
+[01:43:37] ORTAX API SCRAPER - FULL COLLECTION
+[01:43:37] ============================================================
+[01:43:37] Fetching first page...
+[01:43:38] Total regulations: 20451
+[01:43:38] Total pages: 1364
+[01:43:38] Fetched 100 from page 1
+[01:43:38] Fetching pages 2 to 1364...
+[01:43:49] Page 10/1364: 1000 regulations
+[01:44:03] Page 20/1364: 2000 regulations
+[01:44:15] Page 30/1364: 3000 regulations
+[01:44:27] Page 40/1364: 4000 regulations
+[01:44:38] Page 50/1364: 5000 regulations
+[01:44:38] Progress saved: 5000 regulations from 50 pages
+[01:44:49] Page 60/1364: 6000 regulations
+[01:45:01] Page 70/1364: 7000 regulations
+[01:45:12] Page 80/1364: 8000 regulations
+[01:45:23] Page 90/1364: 9000 regulations
+[01:45:34] Page 100/1364: 10000 regulations
+[01:45:34] Progress saved: 10000 regulations from 100 pages
+[01:45:44] Page 110/1364: 11000 regulations
+[01:45:55] Page 120/1364: 12000 regulations
+[01:46:05] Page 130/1364: 13000 regulations
+[01:46:16] Page 140/1364: 14000 regulations
+[01:46:27] Page 150/1364: 15000 regulations
+[01:46:27] Progress saved: 15000 regulations from 150 pages
+[01:46:38] Page 160/1364: 16000 regulations
+[01:46:48] Page 170/1364: 17000 regulations
+[01:46:59] Page 180/1364: 18000 regulations
+[01:47:09] Page 190/1364: 19000 regulations
+[01:47:20] Page 200/1364: 20000 regulations
+[01:47:20] Progress saved: 20000 regulations from 200 pages
+[01:47:30] Page 210/1364: 20416 regulations
+[01:47:40] Page 220/1364: 20416 regulations
+[01:47:50] Page 230/1364: 20416 regulations
+[01:47:59] Page 240/1364: 20416 regulations
+[01:48:09] Page 250/1364: 20416 regulations
+[01:48:09] Progress saved: 20416 regulations from 250 pages
+[01:48:19] Page 260/1364: 20416 regulations
+[01:48:29] Page 270/1364: 20416 regulations
+[01:48:39] Page 280/1364: 20416 regulations
+[01:48:48] Page 290/1364: 20416 regulations
+[01:48:58] Page 300/1364: 20416 regulations
+[01:48:58] Progress saved: 20416 regulations from 300 pages
+[01:48:59] Error fetching page 301: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:48:59] Failed to fetch page 301
+[01:49:00] Error fetching page 302: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:00] Failed to fetch page 302
+[01:49:01] Error fetching page 303: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:01] Failed to fetch page 303
+[01:49:02] Error fetching page 304: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:02] Failed to fetch page 304
+[01:49:03] Error fetching page 305: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:03] Failed to fetch page 305
+[01:49:04] Error fetching page 306: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:04] Failed to fetch page 306
+[01:49:05] Error fetching page 307: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:05] Failed to fetch page 307
+[01:49:06] Error fetching page 308: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:06] Failed to fetch page 308
+[01:49:07] Error fetching page 309: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:07] Failed to fetch page 309
+[01:49:08] Error fetching page 310: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:08] Failed to fetch page 310
+[01:49:09] Error fetching page 311: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:09] Failed to fetch page 311
+[01:49:09] Error fetching page 312: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:09] Failed to fetch page 312
+[01:49:10] Error fetching page 313: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:10] Failed to fetch page 313
+[01:49:11] Error fetching page 314: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:11] Failed to fetch page 314
+[01:49:12] Error fetching page 315: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:12] Failed to fetch page 315
+[01:49:13] Error fetching page 316: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:13] Failed to fetch page 316
+[01:49:14] Error fetching page 317: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:14] Failed to fetch page 317
+[01:49:15] Error fetching page 318: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:15] Failed to fetch page 318
+[01:49:16] Error fetching page 319: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:16] Failed to fetch page 319
+[01:49:17] Error fetching page 320: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:17] Failed to fetch page 320
+[01:49:18] Error fetching page 321: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:18] Failed to fetch page 321
+[01:49:19] Error fetching page 322: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:19] Failed to fetch page 322
+[01:49:20] Error fetching page 323: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:20] Failed to fetch page 323
+[01:49:21] Error fetching page 324: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:21] Failed to fetch page 324
+[01:49:22] Error fetching page 325: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:22] Failed to fetch page 325
+[01:49:22] Error fetching page 326: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:22] Failed to fetch page 326
+[01:49:23] Error fetching page 327: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:23] Failed to fetch page 327
+[01:49:24] Error fetching page 328: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:24] Failed to fetch page 328
+[01:49:25] Error fetching page 329: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:25] Failed to fetch page 329
+[01:49:26] Error fetching page 330: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:26] Failed to fetch page 330
+[01:49:27] Error fetching page 331: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:27] Failed to fetch page 331
+[01:49:28] Error fetching page 332: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:28] Failed to fetch page 332
+[01:49:29] Error fetching page 333: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:29] Failed to fetch page 333
+[01:49:30] Error fetching page 334: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:30] Failed to fetch page 334
+[01:49:31] Error fetching page 335: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:31] Failed to fetch page 335
+[01:49:32] Error fetching page 336: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:32] Failed to fetch page 336
+[01:49:33] Error fetching page 337: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:33] Failed to fetch page 337
+[01:49:34] Error fetching page 338: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:34] Failed to fetch page 338
+[01:49:35] Error fetching page 339: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:35] Failed to fetch page 339
+[01:49:36] Error fetching page 340: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:36] Failed to fetch page 340
+[01:49:37] Error fetching page 341: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:37] Failed to fetch page 341
+[01:49:38] Error fetching page 342: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:38] Failed to fetch page 342
+[01:49:38] Error fetching page 343: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:38] Failed to fetch page 343
+[01:49:39] Error fetching page 344: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:39] Failed to fetch page 344
+[01:49:40] Error fetching page 345: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:40] Failed to fetch page 345
+[01:49:41] Error fetching page 346: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:41] Failed to fetch page 346
+[01:49:42] Error fetching page 347: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:42] Failed to fetch page 347
+[01:49:43] Error fetching page 348: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:43] Failed to fetch page 348
+[01:49:44] Error fetching page 349: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:44] Failed to fetch page 349
+[01:49:45] Error fetching page 350: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:45] Failed to fetch page 350
+[01:49:45] Progress saved: 20416 regulations from 350 pages
+[01:49:46] Error fetching page 351: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:46] Failed to fetch page 351
+[01:49:47] Error fetching page 352: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:47] Failed to fetch page 352
+[01:49:48] Error fetching page 353: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:48] Failed to fetch page 353
+[01:49:49] Error fetching page 354: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:49] Failed to fetch page 354
+[01:49:50] Error fetching page 355: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:50] Failed to fetch page 355
+[01:49:51] Error fetching page 356: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:51] Failed to fetch page 356
+[01:49:52] Error fetching page 357: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:52] Failed to fetch page 357
+[01:49:53] Error fetching page 358: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:53] Failed to fetch page 358
+[01:49:54] Error fetching page 359: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:54] Failed to fetch page 359
+[01:49:54] Error fetching page 360: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:54] Failed to fetch page 360
+[01:49:55] Error fetching page 361: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:55] Failed to fetch page 361
+[01:49:56] Error fetching page 362: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:56] Failed to fetch page 362
+[01:49:57] Error fetching page 363: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:57] Failed to fetch page 363
+[01:49:58] Error fetching page 364: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:58] Failed to fetch page 364
+[01:49:59] Error fetching page 365: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:49:59] Failed to fetch page 365
+[01:50:00] Error fetching page 366: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:00] Failed to fetch page 366
+[01:50:01] Error fetching page 367: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:01] Failed to fetch page 367
+[01:50:02] Error fetching page 368: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:02] Failed to fetch page 368
+[01:50:03] Error fetching page 369: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:03] Failed to fetch page 369
+[01:50:04] Error fetching page 370: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:04] Failed to fetch page 370
+[01:50:05] Error fetching page 371: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:05] Failed to fetch page 371
+[01:50:06] Error fetching page 372: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:06] Failed to fetch page 372
+[01:50:07] Error fetching page 373: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:07] Failed to fetch page 373
+[01:50:07] Error fetching page 374: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:07] Failed to fetch page 374
+[01:50:08] Error fetching page 375: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:08] Failed to fetch page 375
+[01:50:09] Error fetching page 376: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:09] Failed to fetch page 376
+[01:50:10] Error fetching page 377: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:10] Failed to fetch page 377
+[01:50:11] Error fetching page 378: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:11] Failed to fetch page 378
+[01:50:12] Error fetching page 379: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:12] Failed to fetch page 379
+[01:50:13] Error fetching page 380: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:13] Failed to fetch page 380
+[01:50:14] Error fetching page 381: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:14] Failed to fetch page 381
+[01:50:15] Error fetching page 382: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:15] Failed to fetch page 382
+[01:50:16] Error fetching page 383: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:16] Failed to fetch page 383
+[01:50:17] Error fetching page 384: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:17] Failed to fetch page 384
+[01:50:18] Error fetching page 385: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:18] Failed to fetch page 385
+[01:50:19] Error fetching page 386: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:19] Failed to fetch page 386
+[01:50:20] Error fetching page 387: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:20] Failed to fetch page 387
+[01:50:20] Error fetching page 388: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:20] Failed to fetch page 388
+[01:50:21] Error fetching page 389: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:21] Failed to fetch page 389
+[01:50:22] Error fetching page 390: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:22] Failed to fetch page 390
+[01:50:23] Error fetching page 391: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:23] Failed to fetch page 391
+[01:50:24] Error fetching page 392: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:24] Failed to fetch page 392
+[01:50:25] Error fetching page 393: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:25] Failed to fetch page 393
+[01:50:26] Error fetching page 394: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:26] Failed to fetch page 394
+[01:50:27] Error fetching page 395: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:27] Failed to fetch page 395
+[01:50:28] Error fetching page 396: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:28] Failed to fetch page 396
+[01:50:29] Error fetching page 397: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:29] Failed to fetch page 397
+[01:50:30] Error fetching page 398: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:30] Failed to fetch page 398
+[01:50:31] Error fetching page 399: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:31] Failed to fetch page 399
+[01:50:32] Error fetching page 400: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:32] Failed to fetch page 400
+[01:50:32] Progress saved: 20416 regulations from 400 pages
+[01:50:33] Error fetching page 401: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:33] Failed to fetch page 401
+[01:50:34] Error fetching page 402: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:34] Failed to fetch page 402
+[01:50:35] Error fetching page 403: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:35] Failed to fetch page 403
+[01:50:35] Error fetching page 404: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:35] Failed to fetch page 404
+[01:50:36] Error fetching page 405: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:36] Failed to fetch page 405
+[01:50:37] Error fetching page 406: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:37] Failed to fetch page 406
+[01:50:38] Error fetching page 407: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:38] Failed to fetch page 407
+[01:50:39] Error fetching page 408: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:39] Failed to fetch page 408
+[01:50:40] Error fetching page 409: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:40] Failed to fetch page 409
+[01:50:41] Error fetching page 410: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:41] Failed to fetch page 410
+[01:50:42] Error fetching page 411: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:42] Failed to fetch page 411
+[01:50:43] Error fetching page 412: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:43] Failed to fetch page 412
+[01:50:44] Error fetching page 413: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:44] Failed to fetch page 413
+[01:50:45] Error fetching page 414: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:45] Failed to fetch page 414
+[01:50:46] Error fetching page 415: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:46] Failed to fetch page 415
+[01:50:47] Error fetching page 416: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:47] Failed to fetch page 416
+[01:50:48] Error fetching page 417: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:48] Failed to fetch page 417
+[01:50:48] Error fetching page 418: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:48] Failed to fetch page 418
+[01:50:49] Error fetching page 419: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:49] Failed to fetch page 419
+[01:50:50] Error fetching page 420: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:50] Failed to fetch page 420
+[01:50:51] Error fetching page 421: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:51] Failed to fetch page 421
+[01:50:52] Error fetching page 422: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:52] Failed to fetch page 422
+[01:50:53] Error fetching page 423: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:53] Failed to fetch page 423
+[01:50:54] Error fetching page 424: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:54] Failed to fetch page 424
+[01:50:55] Error fetching page 425: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:55] Failed to fetch page 425
+[01:50:56] Error fetching page 426: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:56] Failed to fetch page 426
+[01:50:57] Error fetching page 427: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:57] Failed to fetch page 427
+[01:50:58] Error fetching page 428: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:58] Failed to fetch page 428
+[01:50:59] Error fetching page 429: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:50:59] Failed to fetch page 429
+[01:51:00] Error fetching page 430: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:00] Failed to fetch page 430
+[01:51:01] Error fetching page 431: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:01] Failed to fetch page 431
+[01:51:01] Error fetching page 432: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:01] Failed to fetch page 432
+[01:51:02] Error fetching page 433: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:02] Failed to fetch page 433
+[01:51:03] Error fetching page 434: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:03] Failed to fetch page 434
+[01:51:04] Error fetching page 435: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:04] Failed to fetch page 435
+[01:51:05] Error fetching page 436: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:05] Failed to fetch page 436
+[01:51:06] Error fetching page 437: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:06] Failed to fetch page 437
+[01:51:07] Error fetching page 438: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:07] Failed to fetch page 438
+[01:51:08] Error fetching page 439: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:08] Failed to fetch page 439
+[01:51:09] Error fetching page 440: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:09] Failed to fetch page 440
+[01:51:10] Error fetching page 441: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:10] Failed to fetch page 441
+[01:51:11] Error fetching page 442: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:11] Failed to fetch page 442
+[01:51:12] Error fetching page 443: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:12] Failed to fetch page 443
+[01:51:13] Error fetching page 444: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:13] Failed to fetch page 444
+[01:51:14] Error fetching page 445: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:14] Failed to fetch page 445
+[01:51:14] Error fetching page 446: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:14] Failed to fetch page 446
+[01:51:15] Error fetching page 447: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:15] Failed to fetch page 447
+[01:51:16] Error fetching page 448: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:16] Failed to fetch page 448
+[01:51:17] Error fetching page 449: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:17] Failed to fetch page 449
+[01:51:18] Error fetching page 450: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:18] Failed to fetch page 450
+[01:51:18] Progress saved: 20416 regulations from 450 pages
+[01:51:19] Error fetching page 451: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:19] Failed to fetch page 451
+[01:51:20] Error fetching page 452: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:20] Failed to fetch page 452
+[01:51:21] Error fetching page 453: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:21] Failed to fetch page 453
+[01:51:22] Error fetching page 454: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:22] Failed to fetch page 454
+[01:51:23] Error fetching page 455: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:23] Failed to fetch page 455
+[01:51:24] Error fetching page 456: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:24] Failed to fetch page 456
+[01:51:25] Error fetching page 457: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:25] Failed to fetch page 457
+[01:51:26] Error fetching page 458: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:26] Failed to fetch page 458
+[01:51:27] Error fetching page 459: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:27] Failed to fetch page 459
+[01:51:28] Error fetching page 460: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:28] Failed to fetch page 460
+[01:51:29] Error fetching page 461: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:29] Failed to fetch page 461
+[01:51:29] Error fetching page 462: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:29] Failed to fetch page 462
+[01:51:30] Error fetching page 463: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:30] Failed to fetch page 463
+[01:51:31] Error fetching page 464: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:31] Failed to fetch page 464
+[01:51:32] Error fetching page 465: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:32] Failed to fetch page 465
+[01:51:33] Error fetching page 466: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:33] Failed to fetch page 466
+[01:51:34] Error fetching page 467: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:34] Failed to fetch page 467
+[01:51:35] Error fetching page 468: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:35] Failed to fetch page 468
+[01:51:36] Error fetching page 469: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:36] Failed to fetch page 469
+[01:51:37] Error fetching page 470: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:37] Failed to fetch page 470
+[01:51:38] Error fetching page 471: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:38] Failed to fetch page 471
+[01:51:39] Error fetching page 472: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:39] Failed to fetch page 472
+[01:51:40] Error fetching page 473: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:40] Failed to fetch page 473
+[01:51:41] Error fetching page 474: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:41] Failed to fetch page 474
+[01:51:42] Error fetching page 475: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:42] Failed to fetch page 475
+[01:51:42] Error fetching page 476: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:42] Failed to fetch page 476
+[01:51:43] Error fetching page 477: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:43] Failed to fetch page 477
+[01:51:44] Error fetching page 478: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:44] Failed to fetch page 478
+[01:51:45] Error fetching page 479: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:45] Failed to fetch page 479
+[01:51:46] Error fetching page 480: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:46] Failed to fetch page 480
+[01:51:47] Error fetching page 481: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:47] Failed to fetch page 481
+[01:51:48] Error fetching page 482: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:48] Failed to fetch page 482
+[01:51:49] Error fetching page 483: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:49] Failed to fetch page 483
+[01:51:50] Error fetching page 484: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:50] Failed to fetch page 484
+[01:51:51] Error fetching page 485: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:51] Failed to fetch page 485
+[01:51:52] Error fetching page 486: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:52] Failed to fetch page 486
+[01:51:53] Error fetching page 487: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:53] Failed to fetch page 487
+[01:51:54] Error fetching page 488: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:54] Failed to fetch page 488
+[01:51:55] Error fetching page 489: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:55] Failed to fetch page 489
+[01:51:55] Error fetching page 490: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:55] Failed to fetch page 490
+[01:51:56] Error fetching page 491: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:56] Failed to fetch page 491
+[01:51:57] Error fetching page 492: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:57] Failed to fetch page 492
+[01:51:58] Error fetching page 493: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:58] Failed to fetch page 493
+[01:51:59] Error fetching page 494: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:51:59] Failed to fetch page 494
+[01:52:00] Error fetching page 495: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:00] Failed to fetch page 495
+[01:52:01] Error fetching page 496: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:01] Failed to fetch page 496
+[01:52:02] Error fetching page 497: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:02] Failed to fetch page 497
+[01:52:03] Error fetching page 498: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:03] Failed to fetch page 498
+[01:52:04] Error fetching page 499: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:04] Failed to fetch page 499
+[01:52:05] Error fetching page 500: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:05] Failed to fetch page 500
+[01:52:05] Progress saved: 20416 regulations from 500 pages
+[01:52:06] Error fetching page 501: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:06] Failed to fetch page 501
+[01:52:07] Error fetching page 502: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:07] Failed to fetch page 502
+[01:52:08] Error fetching page 503: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:08] Failed to fetch page 503
+[01:52:09] Error fetching page 504: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:09] Failed to fetch page 504
+[01:52:10] Error fetching page 505: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:10] Failed to fetch page 505
+[01:52:10] Error fetching page 506: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:10] Failed to fetch page 506
+[01:52:11] Error fetching page 507: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:11] Failed to fetch page 507
+[01:52:12] Error fetching page 508: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:12] Failed to fetch page 508
+[01:52:13] Error fetching page 509: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:13] Failed to fetch page 509
+[01:52:14] Error fetching page 510: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:14] Failed to fetch page 510
+[01:52:15] Error fetching page 511: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:15] Failed to fetch page 511
+[01:52:16] Error fetching page 512: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:16] Failed to fetch page 512
+[01:52:17] Error fetching page 513: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:17] Failed to fetch page 513
+[01:52:18] Error fetching page 514: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:18] Failed to fetch page 514
+[01:52:19] Error fetching page 515: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:19] Failed to fetch page 515
+[01:52:20] Error fetching page 516: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:20] Failed to fetch page 516
+[01:52:21] Error fetching page 517: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:21] Failed to fetch page 517
+[01:52:22] Error fetching page 518: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:22] Failed to fetch page 518
+[01:52:23] Error fetching page 519: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:23] Failed to fetch page 519
+[01:52:23] Error fetching page 520: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:23] Failed to fetch page 520
+[01:52:24] Error fetching page 521: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:24] Failed to fetch page 521
+[01:52:25] Error fetching page 522: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:25] Failed to fetch page 522
+[01:52:26] Error fetching page 523: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:26] Failed to fetch page 523
+[01:52:27] Error fetching page 524: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:27] Failed to fetch page 524
+[01:52:28] Error fetching page 525: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:28] Failed to fetch page 525
+[01:52:29] Error fetching page 526: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:29] Failed to fetch page 526
+[01:52:30] Error fetching page 527: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:30] Failed to fetch page 527
+[01:52:31] Error fetching page 528: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:31] Failed to fetch page 528
+[01:52:32] Error fetching page 529: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:32] Failed to fetch page 529
+[01:52:33] Error fetching page 530: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:33] Failed to fetch page 530
+[01:52:34] Error fetching page 531: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:34] Failed to fetch page 531
+[01:52:35] Error fetching page 532: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:35] Failed to fetch page 532
+[01:52:36] Error fetching page 533: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:36] Failed to fetch page 533
+[01:52:36] Error fetching page 534: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:36] Failed to fetch page 534
+[01:52:37] Error fetching page 535: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:37] Failed to fetch page 535
+[01:52:38] Error fetching page 536: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:38] Failed to fetch page 536
+[01:52:39] Error fetching page 537: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:39] Failed to fetch page 537
+[01:52:40] Error fetching page 538: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:40] Failed to fetch page 538
+[01:52:41] Error fetching page 539: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:41] Failed to fetch page 539
+[01:52:42] Error fetching page 540: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:42] Failed to fetch page 540
+[01:52:43] Error fetching page 541: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:43] Failed to fetch page 541
+[01:52:44] Error fetching page 542: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:44] Failed to fetch page 542
+[01:52:45] Error fetching page 543: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:45] Failed to fetch page 543
+[01:52:46] Error fetching page 544: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:46] Failed to fetch page 544
+[01:52:47] Error fetching page 545: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:47] Failed to fetch page 545
+[01:52:48] Error fetching page 546: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:48] Failed to fetch page 546
+[01:52:48] Error fetching page 547: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:49] Failed to fetch page 547
+[01:52:49] Error fetching page 548: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:49] Failed to fetch page 548
+[01:52:50] Error fetching page 549: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:50] Failed to fetch page 549
+[01:52:51] Error fetching page 550: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:51] Failed to fetch page 550
+[01:52:51] Progress saved: 20416 regulations from 550 pages
+[01:52:52] Error fetching page 551: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:52] Failed to fetch page 551
+[01:52:53] Error fetching page 552: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:53] Failed to fetch page 552
+[01:52:54] Error fetching page 553: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:54] Failed to fetch page 553
+[01:52:55] Error fetching page 554: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:55] Failed to fetch page 554
+[01:52:56] Error fetching page 555: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:56] Failed to fetch page 555
+[01:52:57] Error fetching page 556: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:57] Failed to fetch page 556
+[01:52:58] Error fetching page 557: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:58] Failed to fetch page 557
+[01:52:59] Error fetching page 558: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:52:59] Failed to fetch page 558
+[01:53:00] Error fetching page 559: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:00] Failed to fetch page 559
+[01:53:01] Error fetching page 560: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:01] Failed to fetch page 560
+[01:53:02] Error fetching page 561: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:02] Failed to fetch page 561
+[01:53:03] Error fetching page 562: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:03] Failed to fetch page 562
+[01:53:03] Error fetching page 563: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:03] Failed to fetch page 563
+[01:53:04] Error fetching page 564: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:04] Failed to fetch page 564
+[01:53:05] Error fetching page 565: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:05] Failed to fetch page 565
+[01:53:06] Error fetching page 566: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:06] Failed to fetch page 566
+[01:53:07] Error fetching page 567: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:07] Failed to fetch page 567
+[01:53:08] Error fetching page 568: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:08] Failed to fetch page 568
+[01:53:09] Error fetching page 569: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:09] Failed to fetch page 569
+[01:53:10] Error fetching page 570: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:10] Failed to fetch page 570
+[01:53:11] Error fetching page 571: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:11] Failed to fetch page 571
+[01:53:12] Error fetching page 572: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:12] Failed to fetch page 572
+[01:53:13] Error fetching page 573: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:13] Failed to fetch page 573
+[01:53:14] Error fetching page 574: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:14] Failed to fetch page 574
+[01:53:15] Error fetching page 575: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:15] Failed to fetch page 575
+[01:53:16] Error fetching page 576: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:16] Failed to fetch page 576
+[01:53:16] Error fetching page 577: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:16] Failed to fetch page 577
+[01:53:17] Error fetching page 578: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:53:17] Failed to fetch page 578
+[01:53:18] Error fetching page 579: 500 Server Error: Internal Server Error for uGot 15 regulations (Total: 12010)
+  Fetching page 796/1364... Got 15 regulations (Total: 12025)
+  Fetching page 797/1364... Got 15 regulations (Total: 12040)
+  Fetching page 798/1364... Got 15 regulations (Total: 12055)
+  Fetching page 799/1364... Got 15 regulations (Total: 12070)
+  Fetching page 800/1364... Got 15 regulations (Total: 12085)
+
+  [Checkpoint] Saving progress at page 800...
+  Fetching page 801/1364... Got 15 regulations (Total: 12100)
+  Fetching page 802/1364... Got 15 regulations (Total: 12115)
+  Fetching page 803/1364... Got 15 regulations (Total: 12130)
+  Fetching page 804/1364... Got 15 regulations (Total: 12145)
+  Fetching page 805/1364... Got 15 regulations (Total: 12160)
+  Fetching page 806/1364... Got 15 regulations (Total: 12175)
+  Fetching page 807/1364... Got 15 regulations (Total: 12190)
+  Fetching page 808/1364... Got 15 regulations (Total: 12205)
+  Fetching page 809/1364... Got 15 regulations (Total: 12220)
+  Fetching page 810/1364... Got 15 regulations (Total: 12235)
+  Fetching page 811/1364... Got 15 regulations (Total: 12250)
+  Fetching page 812/1364... Got 15 regulations (Total: 12265)
+  Fetching page 813/1364... Got 15 regulations (Total: 12280)
+  Fetching page 814/1364... Got 15 regulations (Total: 12295)
+  Fetching page 815/1364... Got 15 regulations (Total: 12310)
+  Fetching page 816/1364... Got 15 regulations (Total: 12325)
+  Fetching page 817/1364... Got 15 regulations (Total: 12340)
+  Fetching page 818/1364... Got 15 regulations (Total: 12355)
+  Fetching page 819/1364... Got 15 regulations (Total: 12370)
+  Fetching page 820/1364... Got 15 regulations (Total: 12385)
+  Fetching page 821/1364... Got 15 regulations (Total: 12400)
+  Fetching page 822/1364... Got 15 regulations (Total: 12415)
+  Fetching page 823/1364... Got 15 regulations (Total: 12430)
+  Fetching page 824/1364... Got 15 regulations (Total: 12445)
+  Fetching page 825/1364... Got 15 regulations (Total: 12460)
+  Fetching page 826/1364... Got 15 regulations (Total: 12475)
+  Fetching page 827/1364... Got 15 regulations (Total: 12490)
+  Fetching page 828/1364... Got 15 regulations (Total: 12505)
+  Fetching page 829/1364... Got 15 regulations (Total: 12520)
+  Fetching page 830/1364... Got 15 regulations (Total: 12535)
+  Fetching page 831/1364... Got 15 regulations (Total: 12550)
+  Fetching page 832/1364... Got 15 regulations (Total: 12565)
+  Fetching page 833/1364... Got 15 regulations (Total: 12580)
+  Fetching page 834/1364... Got 15 regulations (Total: 12595)
+  Fetching page 835/1364... Got 15 regulations (Total: 12610)
+  Fetching page 836/1364... Got 15 regulations (Total: 12625)
+  Fetching page 837/1364... Got 15 regulations (Total: 12640)
+  Fetching page 838/1364... Got 15 regulations (Total: 12655)
+  Fetching page 839/1364... Got 15 regulations (Total: 12670)
+  Fetching page 840/1364... Got 15 regulations (Total: 12685)
+  Fetching page 841/1364... Got 15 regulations (Total: 12700)
+  Fetching page 842/1364... Got 15 regulations (Total: 12715)
+  Fetching page 843/1364... Got 15 regulations (Total: 12730)
+  Fetching page 844/1364... Got 15 regulations (Total: 12745)
+  Fetching page 845/1364... Got 15 regulations (Total: 12760)
+  Fetching page 846/1364... Got 15 regulations (Total: 12775)
+  Fetching page 847/1364... Got 15 regulations (Total: 12790)
+  Fetching page 848/1364... Got 15 regulations (Total: 12805)
+  Fetching page 849/1364... Got 15 regulations (Total: 12820)
+  Fetching page 850/1364... Got 15 regulations (Total: 12835)
+  Fetching page 851/1364... Got 15 regulations (Total: 12850)
+  Fetching page 852/1364... Got 15 regulations (Total: 12865)
+  Fetching page 853/1364... Got 15 regulations (Total: 12880)
+  Fetching page 854/1364... Got 15 regulations (Total: 12895)
+  Fetching page 855/1364... Got 15 regulations (Total: 12910)
+  Fetching page 856/1364... Got 15 regulations (Total: 12925)
+  Fetching page 857/1364... Got 15 regulations (Total: 12940)
+  Fetching page 858/1364... Got 15 regulations (Total: 12955)
+  Fetching page 859/1364... Got 15 regulations (Total: 12970)
+  Fetching page 860/1364... Got 15 regulations (Total: 12985)
+  Fetching page 861/1364... Got 15 regulations (Total: 13000)
+  Fetching page 862/1364... Got 15 regulations (Total: 13015)
+  Fetching page 863/1364... Got 15 regulations (Total: 13030)
+  Fetching page 864/1364... Got 15 regulations (Total: 13045)
+  Fetching page 865/1364... Got 15 regulations (Total: 13060)
+  Fetching page 866/1364... Got 15 regulations (Total: 13075)
+  Fetching page 867/1364... Got 15 regulations (Total: 13090)
+  Fetching page 868/1364... Got 15 regulations (Total: 13105)
+  Fetching page 869/1364... Got 15 regulations (Total: 13120)
+  Fetching page 870/1364... Got 15 regulations (Total: 13135)
+  Fetching page 871/1364... Got 15 regulations (Total: 13150)
+  Fetching page 872/1364... Got 15 regulations (Total: 13165)
+  Fetching page 873/1364... Got 15 regulations (Total: 13180)
+  Fetching page 874/1364... Got 15 regulations (Total: 13195)
+  Fetching page 875/1364... Got 15 regulations (Total: 13210)
+  Fetching page 876/1364... Got 15 regulations (Total: 13225)
+  Fetching page 877/1364... Got 15 regulations (Total: 13240)
+  Fetching page 878/1364... Got 15 regulations (Total: 13255)
+  Fetching page 879/1364... Got 15 regulations (Total: 13270)
+  Fetching page 880/1364... Got 15 regulations (Total: 13285)
+  Fetching page 881/1364... Got 15 regulations (Total: 13300)
+  Fetching page 882/1364... Got 15 regulations (Total: 13315)
+  Fetching page 883/1364... Got 15 regulations (Total: 13330)
+  Fetching page 884/1364... Got 15 regulations (Total: 13345)
+  Fetching page 885/1364... Got 15 regulations (Total: 13360)
+  Fetching page 886/1364... Got 15 regulations (Total: 13375)
+  Fetching page 887/1364... Got 15 regulations (Total: 13390)
+  Fetching page 888/1364... Got 15 regulations (Total: 13405)
+  Fetching page 889/1364... Got 15 regulations (Total: 13420)
+  Fetching page 890/1364... Got 15 regulations (Total: 13435)
+  Fetching page 891/1364... Got 15 regulations (Total: 13450)
+  Fetching page 892/1364... Got 15 regulations (Total: 13465)
+  Fetching page 893/1364... Got 15 regulations (Total: 13480)
+  Fetching page 894/1364... Got 15 regulations (Total: 13495)
+  Fetching page 895/1364... Got 15 regulations (Total: 13510)
+  Fetching page 896/1364... Got 15 regulations (Total: 13525)
+  Fetching page 897/1364... Got 15 regulations (Total: 13540)
+  Fetching page 898/1364... Got 15 regulations (Total: 13555)
+  Fetching page 899/1364... Got 15 regulations (Total: 13570)
+  Fetching page 900/1364... Got 15 regulations (Total: 13585)
+
+  [Checkpoint] Saving progress at page 900...
+  Fetching page 901/1364... Got 15 regulations (Total: 13600)
+  Fetching page 902/1364... Got 15 regulations (Total: 13615)
+  Fetching page 903/1364... Got 15 regulations (Total: 13630)
+  Fetching page 904/1364... Got 15 regulations (Total: 13645)
+  Fetching page 905/1364... Got 15 regulations (Total: 13660)
+  Fetching page 906/1364... Got 15 regulations (Total: 13675)
+  Fetching page 907/1364... Got 15 regulations (Total: 13690)
+  Fetching page 908/1364... Got 15 regulations (Total: 13705)
+  Fetching page 909/1364... Got 15 regulations (Total: 13720)
+  Fetching page 910/1364... Got 15 regulations (Total: 13735)
+  Fetching page 911/1364... Got 15 regulations (Total: 13750)
+  Fetching page 912/1364... Got 15 regulations (Total: 13765)
+  Fetching page 913/1364... Got 15 regulations (Total: 13780)
+  Fetching page 914/1364... Got 15 regulations (Total: 13795)
+  Fetching page 915/1364... Got 15 regulations (Total: 13810)
+  Fetching page 916/1364... Got 15 regulations (Total: 13825)
+  Fetching page 917/1364... Got 15 regulations (Total: 13840)
+  Fetching page 918/1364... Got 15 regulations (Total: 13855)
+  Fetching page 919/1364... Got 15 regulations (Total: 13870)
+  Fetching page 920/1364... Got 15 regulations (Total: 13885)
+  Fetching page 921/1364... Got 15 regulations (Total: 13900)
+  Fetching page 922/1364... Got 15 regulations (Total: 13915)
+  Fetching page 923/1364... Got 15 regulations (Total: 13930)
+  Fetching page 924/1364... Got 15 regulations (Total: 13945)
+  Fetching page 925/1364... Got 15 regulations (Total: 13960)
+  Fetching page 926/1364... Got 15 regulations (Total: 13975)
+  Fetching page 927/1364... Got 15 regulations (Total: 13990)
+  Fetching page 928/1364... Got 15 regulations (Total: 14005)
+  Fetching page 929/1364... Got 15 regulations (Total: 14020)
+  Fetching page 930/1364... Got 15 regulations (Total: 14035)
+  Fetching page 931/1364... Got 15 regulations (Total: 14050)
+  Fetching page 932/1364... Got 15 regulations (Total: 14065)
+  Fetching page 933/1364... Got 15 regulations (Total: 14080)
+  Fetching page 934/1364... Got 15 regulations (Total: 14095)
+  Fetching page 935/1364... Got 15 regulations (Total: 14110)
+  Fetching page 936/1364... Got 15 regulations (Total: 14125)
+  Fetching page 937/1364... Got 15 regulations (Total: 14140)
+  Fetching page 938/1364... Got 15 regulations (Total: 14155)
+  Fetching page 939/1364... Got 15 regulations (Total: 14170)
+  Fetching page 940/1364... Got 15 regulations (Total: 14185)
+  Fetching page 941/1364... Got 15 regulations (Total: 14200)
+  Fetching page 942/1364... Got 15 regulations (Total: 14215)
+  Fetching page 943/1364... Got 15 regulations (Total: 14230)
+  Fetching page 944/1364... Got 15 regulations (Total: 14245)
+  Fetching page 945/1364... Got 15 regulations (Total: 14260)
+  Fetching page 946/1364... Got 15 regulations (Total: 14275)
+  Fetching page 947/1364... Got 15 regulations (Total: 14290)
+  Fetching page 948/1364... Got 15 regulations (Total: 14305)
+  Fetching page 949/1364... Got 15 regulations (Total: 14320)
+  Fetching page 950/1364... Got 15 regulations (Total: 14335)
+  Fetching page 951/1364... Got 15 regulations (Total: 14350)
+  Fetching page 952/1364... Got 15 regulations (Total: 14365)
+  Fetching page 953/1364... Got 15 regulations (Total: 14380)
+  Fetching page 954/1364... Got 15 regulations (Total: 14395)
+  Fetching page 955/1364... Got 15 regulations (Total: 14410)
+  Fetching page 956/1364... Got 15 regulations (Total: 14425)
+  Fetching page 957/1364... Got 15 regulations (Total: 14440)
+  Fetching page 958/1364... Got 15 regulations (Total: 14455)
+  Fetching page 959/1364... Got 15 regulations (Total: 14470)
+  Fetching page 960/1364... Got 15 regulations (Total: 14485)
+  Fetching page 961/1364... Got 15 regulations (Total: 14500)
+  Fetching page 962/1364... Got 15 regulations (Total: 14515)
+  Fetching page 963/1364... Got 15 regulations (Total: 14530)
+  Fetching page 964/1364... Got 15 regulations (Total: 14545)
+  Fetching page 965/1364... Got 15 regulations (Total: 14560)
+  Fetching page 966/1364... Got 15 regulations (Total: 14575)
+  Fetching page 967/1364... Got 15 regulations (Total: 14590)
+  Fetching page 968/1364... Got 15 regulations (Total: 14605)
+  Fetching page 969/1364... Got 15 regulations (Total: 14620)
+  Fetching page 970/1364... Got 15 regulations (Total: 14635)
+  Fetching page 971/1364... Got 15 regulations (Total: 14650)
+  Fetching page 972/1364... Got 15 regulations (Total: 14665)
+  Fetching page 973/1364... Got 15 regulations (Total: 14680)
+  Fetching page 974/1364... Got 15 regulations (Total: 14695)
+  Fetching page 975/1364... Got 15 regulations (Total: 14710)
+  Fetching page 976/1364... Got 15 regulations (Total: 14725)
+  Fetching page 977/1364... Got 15 regulations (Total: 14740)
+  Fetching page 978/1364... Got 15 regulations (Total: 14755)
+  Fetching page 979/1364... Got 15 regulations (Total: 14770)
+  Fetching page 980/1364... Got 15 regulations (Total: 14785)
+  Fetching page 981/1364... Got 15 regulations (Total: 14800)
+  Fetching page 982/1364... Got 15 regulations (Total: 14815)
+  Fetching page 983/1364... Got 15 regulations (Total: 14830)
+  Fetching page 984/1364... Got 15 regulations (Total: 14845)
+  Fetching page 985/1364... Got 15 regulations (Total: 14860)
+  Fetching page 986/1364... Got 15 regulations (Total: 14875)
+  Fetching page 987/1364... Got 15 regulations (Total: 14890)
+  Fetching page 988/1364... Got 15 regulations (Total: 14905)
+  Fetching page 989/1364... Got 15 regulations (Total: 14920)
+  Fetching page 990/1364... Got 15 regulations (Total: 14935)
+  Fetching page 991/1364... Got 15 regulations (Total: 14950)
+  Fetching page 992/1364... Got 15 regulations (Total: 14965)
+  Fetching page 993/1364... Got 15 regulations (Total: 14980)
+  Fetching page 994/1364... Got 15 regulations (Total: 14995)
+  Fetching page 995/1364... Got 15 regulations (Total: 15010)
+  Fetching page 996/1364... Got 15 regulations (Total: 15025)
+  Fetching page 997/1364... Got 15 regulations (Total: 15040)
+  Fetching page 998/1364... Got 15 regulations (Total: 15055)
+  Fetching page 999/1364... Got 15 regulations (Total: 15070)
+  Fetching page 1000/1364... Got 15 regulations (Total: 15085)
+
+  [Checkpoint] Saving progress at page 1000...
+  Fetching page 1001/1364... Got 15 regulations (Total: 15100)
+  Fetching page 1002/1364... Got 15 regulations (Total: 15115)
+  Fetching page 1003/1364... Got 15 regulations (Total: 15130)
+  Fetching page 1004/1364... Got 15 regulations (Total: 15145)
+  Fetching page 1005/1364... Got 15 regulations (Total: 15160)
+  Fetching page 1006/1364... Got 15 regulations (Total: 15175)
+  Fetching page 1007/1364... Got 15 regulations (Total: 15190)
+  Fetching page 1008/1364... Got 15 regulations (Total: 15205)
+  Fetching page 1009/1364... Got 15 regulations (Total: 15220)
+  Fetching page 1010/1364... Got 15 regulations (Total: 15235)
+  Fetching page 1011/1364... Got 15 regulations (Total: 15250)
+  Fetching page 1012/1364... Got 15 regulations (Total: 15265)
+  Fetching page 1013/1364... Got 15 regulations (Total: 15280)
+  Fetching page 1014/1364... Got 15 regulations (Total: 15295)
+  Fetching page 1015/1364... Got 15 regulations (Total: 15310)
+  Fetching page 1016/1364... Got 15 regulations (Total: 15325)
+  Fetching page 1017/1364... Got 15 regulations (Total: 15340)
+  Fetching page 1018/1364... Got 15 regulations (Total: 15355)
+  Fetching page 1019/1364... Got 15 regulations (Total: 15370)
+  Fetching page 1020/1364... Got 15 regulations (Total: 15385)
+  Fetching page 1021/1364... Got 15 regulations (Total: 15400)
+  Fetching page 1022/1364... Got 15 regulations (Total: 15415)
+  Fetching page 1023/1364... Got 15 regulations (Total: 15430)
+  Fetching page 1024/1364... Got 15 regulations (Total: 15445)
+  Fetching page 1025/1364... Got 15 regulations (Total: 15460)
+  Fetching page 1026/1364... Got 15 regulations (Total: 15475)
+  Fetching page 1027/1364... Got 15 regulations (Total: 15490)
+  Fetching page 1028/1364... Got 15 regulations (Total: 15505)
+  Fetching page 1029/1364... Got 15 regulations (Total: 15520)
+  Fetching page 1030/1364... Got 15 regulations (Total: 15535)
+  Fetching page 1031/1364... Got 15 regulations (Total: 15550)
+  Fetching page 1032/1364... Got 15 regulations (Total: 15565)
+  Fetching page 1033/1364... Got 15 regulations (Total: 15580)
+  Fetching page 1034/1364... Got 15 regulations (Total: 15595)
+  Fetching page 1035/1364... Got 15 regulations (Total: 15610)
+  Fetching page 1036/1364... Got 15 regulations (Total: 15625)
+  Fetching page 1037/1364... Got 15 regulations (Total: 15640)
+  Fetching page 1038/1364... Got 15 regulations (Total: 15655)
+  Fetching page 1039/1364... Got 15 regulations (Total: 15670)
+  Fetching page 1040/1364... Got 15 regulations (Total: 15685)
+  Fetching page 1041/1364... Got 15 regulations (Total: 15700)
+  Fetching page 1042/1364... Got 15 regulations (Total: 15715)
+  Fetching page 1043/1364... Got 15 regulations (Total: 15730)
+  Fetching page 1044/1364... Got 15 regulations (Total: 15745)
+  Fetching page 1045/1364... Got 15 regulations (Total: 15760)
+  Fetching page 1046/1364... Got 15 regulations (Total: 15775)
+  Fetching page 1047/1364... Got 15 regulations (Total: 15790)
+  Fetching page 1048/1364... Got 15 regulations (Total: 15805)
+  Fetching page 1049/1364... Got 15 regulations (Total: 15820)
+  Fetching page 1050/1364... Got 15 regulations (Total: 15835)
+  Fetching page 1051/1364... Got 15 regulations (Total: 15850)
+  Fetching page 1052/1364... Got 15 regulations (Total: 15865)
+  Fetching page 1053/1364... Got 15 regulations (Total: 15880)
+  Fetching page 1054/1364... Got 15 regulations (Total: 15895)
+  Fetching page 1055/1364... Got 15 regulations (Total: 15910)
+  Fetching page 1056/1364...r Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:49] Failed to fetch page 676
+[01:54:50] Error fetching page 677: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:50] Failed to fetch page 677
+[01:54:50] Error fetching page 678: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:50] Failed to fetch page 678
+[01:54:51] Error fetching page 679: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:51] Failed to fetch page 679
+[01:54:52] Error fetching page 680: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:52] Failed to fetch page 680
+[01:54:53] Error fetching page 681: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:53] Failed to fetch page 681
+[01:54:54] Error fetching page 682: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:54] Failed to fetch page 682
+[01:54:55] Error fetching page 683: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:55] Failed to fetch page 683
+[01:54:56] Error fetching page 684: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:56] Failed to fetch page 684
+[01:54:57] Error fetching page 685: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:57] Failed to fetch page 685
+[01:54:58] Error fetching page 686: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:58] Failed to fetch page 686
+[01:54:59] Error fetching page 687: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:54:59] Failed to fetch page 687
+[01:55:00] Error fetching page 688: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:00] Failed to fetch page 688
+[01:55:01] Error fetching page 689: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:01] Failed to fetch page 689
+[01:55:02] Error fetching page 690: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:02] Failed to fetch page 690
+[01:55:03] Error fetching page 691: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:03] Failed to fetch page 691
+[01:55:03] Error fetching page 692: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:03] Failed to fetch page 692
+[01:55:04] Error fetching page 693: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:04] Failed to fetch page 693
+[01:55:05] Error fetching page 694: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:05] Failed to fetch page 694
+[01:55:06] Error fetching page 695: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:06] Failed to fetch page 695
+[01:55:07] Error fetching page 696: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:07] Failed to fetch page 696
+[01:55:08] Error fetching page 697: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:08] Failed to fetch page 697
+[01:55:09] Error fetching page 698: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:09] Failed to fetch page 698
+[01:55:10] Error fetching page 699: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:10] Failed to fetch page 699
+[01:55:11] Error fetching page 700: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:11] Failed to fetch page 700
+[01:55:11] Progress saved: 20416 regulations from 700 pages
+[01:55:12] Error fetching page 701: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:12] Failed to fetch page 701
+[01:55:13] Error fetching page 702: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:13] Failed to fetch page 702
+[01:55:14] Error fetching page 703: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:14] Failed to fetch page 703
+[01:55:15] Error fetching page 704: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:15] Failed to fetch page 704
+[01:55:16] Error fetching page 705: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:16] Failed to fetch page 705
+[01:55:17] Error fetching page 706: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:17] Failed to fetch page 706
+[01:55:18] Error fetching page 707: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:18] Failed to fetch page 707
+[01:55:19] Error fetching page 708: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:19] Failed to fetch page 708
+[01:55:19] Error fetching page 709: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:19] Failed to fetch page 709
+[01:55:20] Error fetching page 710: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:20] Failed to fetch page 710
+[01:55:21] Error fetching page 711: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:21] Failed to fetch page 711
+[01:55:22] Error fetching page 712: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:22] Failed to fetch page 712
+[01:55:23] Error fetching page 713: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:23] Failed to fetch page 713
+[01:55:24] Error fetching page 714: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:24] Failed to fetch page 714
+[01:55:25] Error fetching page 715: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:25] Failed to fetch page 715
+[01:55:26] Error fetching page 716: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:26] Failed to fetch page 716
+[01:55:27] Error fetching page 717: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:27] Failed to fetch page 717
+[01:55:28] Error fetching page 718: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:28] Failed to fetch page 718
+[01:55:29] Error fetching page 719: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:29] Failed to fetch page 719
+[01:55:30] Error fetching page 720: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:30] Failed to fetch page 720
+[01:55:31] Error fetching page 721: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:31] Failed to fetch page 721
+[01:55:31] Error fetching page 722: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:31] Failed to fetch page 722
+[01:55:32] Error fetching page 723: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:32] Failed to fetch page 723
+[01:55:33] Error fetching page 724: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:33] Failed to fetch page 724
+[01:55:34] Error fetching page 725: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:34] Failed to fetch page 725
+[01:55:35] Error fetching page 726: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:35] Failed to fetch page 726
+[01:55:36] Error fetching page 727: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:36] Failed to fetch page 727
+[01:55:37] Error fetching page 728: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:37] Failed to fetch page 728
+[01:55:38] Error fetching page 729: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:38] Failed to fetch page 729
+[01:55:39] Error fetching page 730: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:39] Failed to fetch page 730
+[01:55:40] Error fetching page 731: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:40] Failed to fetch page 731
+[01:55:41] Error fetching page 732: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:41] Failed to fetch page 732
+[01:55:42] Error fetching page 733: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:42] Failed to fetch page 733
+[01:55:43] Error fetching page 734: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:43] Failed to fetch page 734
+[01:55:44] Error fetching page 735: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:44] Failed to fetch page 735
+[01:55:45] Error fetching page 736: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:45] Failed to fetch page 736
+[01:55:45] Error fetching page 737: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:45] Failed to fetch page 737
+[01:55:46] Error fetching page 738: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:46] Failed to fetch page 738
+[01:55:47] Error fetching page 739: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:47] Failed to fetch page 739
+[01:55:48] Error fetching page 740: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:48] Failed to fetch page 740
+[01:55:49] Error fetching page 741: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:49] Failed to fetch page 741
+[01:55:50] Error fetching page 742: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:50] Failed to fetch page 742
+[01:55:51] Error fetching page 743: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:51] Failed to fetch page 743
+[01:55:52] Error fetching page 744: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:52] Failed to fetch page 744
+[01:55:53] Error fetching page 745: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:53] Failed to fetch page 745
+[01:55:54] Error fetching page 746: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:54] Failed to fetch page 746
+[01:55:55] Error fetching page 747: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:55] Failed to fetch page 747
+[01:55:56] Error fetching page 748: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:56] Failed to fetch page 748
+[01:55:57] Error fetching page 749: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:57] Failed to fetch page 749
+[01:55:57] Error fetching page 750: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:57] Failed to fetch page 750
+[01:55:58] Progress saved: 20416 regulations from 750 pages
+[01:55:59] Error fetching page 751: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:55:59] Failed to fetch page 751
+[01:56:00] Error fetching page 752: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:00] Failed to fetch page 752
+[01:56:00] Error fetching page 753: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:00] Failed to fetch page 753
+[01:56:01] Error fetching page 754: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:01] Failed to fetch page 754
+[01:56:02] Error fetching page 755: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:02] Failed to fetch page 755
+[01:56:03] Error fetching page 756: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:03] Failed to fetch page 756
+[01:56:04] Error fetching page 757: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:04] Failed to fetch page 757
+[01:56:05] Error fetching page 758: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:05] Failed to fetch page 758
+[01:56:06] Error fetching page 759: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:06] Failed to fetch page 759
+[01:56:07] Error fetching page 760: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:07] Failed to fetch page 760
+[01:56:08] Error fetching page 761: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:08] Failed to fetch page 761
+[01:56:09] Error fetching page 762: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:09] Failed to fetch page 762
+[01:56:10] Error fetching page 763: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:10] Failed to fetch page 763
+[01:56:11] Error fetching page 764: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:11] Failed to fetch page 764
+[01:56:12] Error fetching page 765: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:12] Failed to fetch page 765
+[01:56:13] Error fetching page 766: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:13] Failed to fetch page 766
+[01:56:13] Error fetching page 767: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:13] Failed to fetch page 767
+[01:56:14] Error fetching page 768: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:14] Failed to fetch page 768
+[01:56:15] Error fetching page 769: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:15] Failed to fetch page 769
+[01:56:16] Error fetching page 770: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:16] Failed to fetch page 770
+[01:56:17] Error fetching page 771: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:17] Failed to fetch page 771
+[01:56:18] Error fetching page 772: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:18] Failed to fetch page 772
+[01:56:19] Error fetching page 773: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:19] Failed to fetch page 773
+[01:56:20] Error fetching page 774: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:20] Failed to fetch page 774
+[01:56:21] Error fetching page 775: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:21] Failed to fetch page 775
+[01:56:22] Error fetching page 776: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:22] Failed to fetch page 776
+[01:56:23] Error fetching page 777: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:23] Failed to fetch page 777
+[01:56:24] Error fetching page 778: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:24] Failed to fetch page 778
+[01:56:25] Error fetching page 779: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:25] Failed to fetch page 779
+[01:56:26] Error fetching page 780: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:26] Failed to fetch page 780
+[01:56:26] Error fetching page 781: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:26] Failed to fetch page 781
+[01:56:27] Error fetching page 782: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:27] Failed to fetch page 782
+[01:56:28] Error fetching page 783: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:28] Failed to fetch page 783
+[01:56:29] Error fetching page 784: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:29] Failed to fetch page 784
+[01:56:30] Error fetching page 785: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:30] Failed to fetch page 785
+[01:56:31] Error fetching page 786: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:31] Failed to fetch page 786
+[01:56:32] Error fetching page 787: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:32] Failed to fetch page 787
+[01:56:33] Error fetching page 788: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:33] Failed to fetch page 788
+[01:56:34] Error fetching page 789: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:34] Failed to fetch page 789
+[01:56:35] Error fetching page 790: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:35] Failed to fetch page 790
+[01:56:36] Error fetching page 791: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:36] Failed to fetch page 791
+[01:56:37] Error fetching page 792: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:37] Failed to fetch page 792
+[01:56:38] Error fetching page 793: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:38] Failed to fetch page 793
+[01:56:39] Error fetching page 794: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:39] Failed to fetch page 794
+[01:56:39] Error fetching page 795: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:39] Failed to fetch page 795
+[01:56:40] Error fetching page 796: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:40] Failed to fetch page 796
+[01:56:41] Error fetching page 797: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:41] Failed to fetch page 797
+[01:56:42] Error fetching page 798: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:42] Failed to fetch page 798
+[01:56:43] Error fetching page 799: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:43] Failed to fetch page 799
+[01:56:44] Error fetching page 800: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:44] Failed to fetch page 800
+[01:56:44] Progress saved: 20416 regulations from 800 pages
+[01:56:45] Error fetching page 801: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:45] Failed to fetch page 801
+[01:56:46] Error fetching page 802: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:46] Failed to fetch page 802
+[01:56:47] Error fetching page 803: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:47] Failed to fetch page 803
+[01:56:48] Error fetching page 804: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:48] Failed to fetch page 804
+[01:56:49] Error fetching page 805: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:49] Failed to fetch page 805
+[01:56:50] Error fetching page 806: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:50] Failed to fetch page 806
+[01:56:51] Error fetching page 807: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:51] Failed to fetch page 807
+[01:56:52] Error fetching page 808: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:52] Failed to fetch page 808
+[01:56:53] Error fetching page 809: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:53] Failed to fetch page 809
+[01:56:54] Error fetching page 810: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:54] Failed to fetch page 810
+[01:56:54] Error fetching page 811: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:54] Failed to fetch page 811
+[01:56:55] Error fetching page 812: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:55] Failed to fetch page 812
+[01:56:56] Error fetching page 813: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:56] Failed to fetch page 813
+[01:56:57] Error fetching page 814: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:57] Failed to fetch page 814
+[01:56:58] Error fetching page 815: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:56:58] Failed to fetch page 815
+[01:57:00] Error fetching page 816: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:00] Failed to fetch page 816
+[01:57:01] Error fetching page 817: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:01] Failed to fetch page 817
+[01:57:02] Error fetching page 818: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:02] Failed to fetch page 818
+[01:57:03] Error fetching page 819: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:03] Failed to fetch page 819
+[01:57:03] Error fetching page 820: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:03] Failed to fetch page 820
+[01:57:04] Error fetching page 821: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:04] Failed to fetch page 821
+[01:57:05] Error fetching page 822: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:05] Failed to fetch page 822
+[01:57:06] Error fetching page 823: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:06] Failed to fetch page 823
+[01:57:07] Error fetching page 824: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:07] Failed to fetch page 824
+[01:57:08] Error fetching page 825: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:08] Failed to fetch page 825
+[01:57:09] Error fetching page 826: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:09] Failed to fetch page 826
+[01:57:10] Error fetching page 827: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:10] Failed to fetch page 827
+[01:57:11] Error fetching page 828: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:11] Failed to fetch page 828
+[01:57:12] Error fetching page 829: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:12] Failed to fetch page 829
+[01:57:13] Error fetching page 830: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:13] Failed to fetch page 830
+[01:57:14] Error fetching page 831: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:14] Failed to fetch page 831
+[01:57:15] Error fetching page 832: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:15] Failed to fetch page 832
+[01:57:16] Error fetching page 833: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:16] Failed to fetch page 833
+[01:57:16] Error fetching page 834: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:16] Failed to fetch page 834
+[01:57:17] Error fetching page 835: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:17] Failed to fetch page 835
+[01:57:18] Error fetching page 836: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:18] Failed to fetch page 836
+[01:57:19] Error fetching page 837: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:19] Failed to fetch page 837
+[01:57:20] Error fetching page 838: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:20] Failed to fetch page 838
+[01:57:21] Error fetching page 839: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:21] Failed to fetch page 839
+[01:57:22] Error fetching page 840: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:22] Failed to fetch page 840
+[01:57:23] Error fetching page 841: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:23] Failed to fetch page 841
+[01:57:24] Error fetching page 842: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:24] Failed to fetch page 842
+[01:57:25] Error fetching page 843: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:25] Failed to fetch page 843
+[01:57:26] Error fetching page 844: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:26] Failed to fetch page 844
+[01:57:27] Error fetching page 845: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:27] Failed to fetch page 845
+[01:57:28] Error fetching page 846: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:28] Failed to fetch page 846
+[01:57:29] Error fetching page 847: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:29] Failed to fetch page 847
+[01:57:29] Error fetching page 848: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:29] Failed to fetch page 848
+[01:57:30] Error fetching page 849: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:30] Failed to fetch page 849
+[01:57:31] Error fetching page 850: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:31] Failed to fetch page 850
+[01:57:31] Progress saved: 20416 regulations from 850 pages
+[01:57:32] Error fetching page 851: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:32] Failed to fetch page 851
+[01:57:33] Error fetching page 852: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:33] Failed to fetch page 852
+[01:57:34] Error fetching page 853: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:34] Failed to fetch page 853
+[01:57:35] Error fetching page 854: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:35] Failed to fetch page 854
+[01:57:36] Error fetching page 855: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:36] Failed to fetch page 855
+[01:57:37] Error fetching page 856: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:37] Failed to fetch page 856
+[01:57:38] Error fetching page 857: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:38] Failed to fetch page 857
+[01:57:39] Error fetching page 858: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:39] Failed to fetch page 858
+[01:57:40] Error fetching page 859: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:40] Failed to fetch page 859
+[01:57:41] Error fetching page 860: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:41] Failed to fetch page 860
+[01:57:42] Error fetching page 861: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:42] Failed to fetch page 861
+[01:57:43] Error fetching page 862: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:43] Failed to fetch page 862
+[01:57:44] Error fetching page 863: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:44] Failed to fetch page 863
+[01:57:44] Error fetching page 864: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:44] Failed to fetch page 864
+[01:57:45] Error fetching page 865: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:45] Failed to fetch page 865
+[01:57:46] Error fetching page 866: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:46] Failed to fetch page 866
+[01:57:47] Error fetching page 867: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:47] Failed to fetch page 867
+[01:57:48] Error fetching page 868: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:48] Failed to fetch page 868
+[01:57:49] Error fetching page 869: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:49] Failed to fetch page 869
+[01:57:50] Error fetching page 870: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:50] Failed to fetch page 870
+[01:57:51] Error fetching page 871: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:51] Failed to fetch page 871
+[01:57:52] Error fetching page 872: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:52] Failed to fetch page 872
+[01:57:53] Error fetching page 873: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:53] Failed to fetch page 873
+[01:57:54] Error fetching page 874: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:54] Failed to fetch page 874
+[01:57:55] Error fetching page 875: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:55] Failed to fetch page 875
+[01:57:56] Error fetching page 876: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:56] Failed to fetch page 876
+[01:57:57] Error fetching page 877: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:57] Failed to fetch page 877
+[01:57:58] Error fetching page 878: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:58] Failed to fetch page 878
+[01:57:59] Error fetching page 879: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:57:59] Failed to fetch page 879
+[01:58:00] Error fetching page 880: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:00] Failed to fetch page 880
+[01:58:00] Error fetching page 881: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:00] Failed to fetch page 881
+[01:58:01] Error fetching page 882: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:01] Failed to fetch page 882
+[01:58:02] Error fetching page 883: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:02] Failed to fetch page 883
+[01:58:03] Error fetching page 884: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:03] Failed to fetch page 884
+[01:58:04] Error fetching page 885: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:04] Failed to fetch page 885
+[01:58:05] Error fetching page 886: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:05] Failed to fetch page 886
+[01:58:06] Error fetching page 887: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:06] Failed to fetch page 887
+[01:58:07] Error fetching page 888: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:07] Failed to fetch page 888
+[01:58:08] Error fetching page 889: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:08] Failed to fetch page 889
+[01:58:09] Error fetching page 890: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:09] Failed to fetch page 890
+[01:58:10] Error fetching page 891: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:10] Failed to fetch page 891
+[01:58:11] Error fetching page 892: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:11] Failed to fetch page 892
+[01:58:12] Error fetching page 893: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:12] Failed to fetch page 893
+[01:58:12] Error fetching page 894: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:12] Failed to fetch page 894
+[01:58:13] Error fetching page 895: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:13] Failed to fetch page 895
+[01:58:14] Error fetching page 896: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:14] Failed to fetch page 896
+[01:58:15] Error fetching page 897: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:15] Failed to fetch page 897
+[01:58:16] Error fetching page 898: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:16] Failed to fetch page 898
+[01:58:17] Error fetching page 899: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:17] Failed to fetch page 899
+[01:58:18] Error fetching page 900: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:18] Failed to fetch page 900
+[01:58:18] Progress saved: 20416 regulations from 900 pages
+[01:58:19] Error fetching page 901: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:19] Failed to fetch page 901
+[01:58:20] Error fetching page 902: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:20] Failed to fetch page 902
+[01:58:21] Error fetching page 903: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:21] Failed to fetch page 903
+[01:58:22] Error fetching page 904: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:22] Failed to fetch page 904
+[01:58:23] Error fetching page 905: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:23] Failed to fetch page 905
+[01:58:24] Error fetching page 906: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:24] Failed to fetch page 906
+[01:58:25] Error fetching page 907: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:25] Failed to fetch page 907
+[01:58:26] Error fetching page 908: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:26] Failed to fetch page 908
+[01:58:27] Error fetching page 909: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:27] Failed to fetch page 909
+[01:58:28] Error fetching page 910: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:28] Failed to fetch page 910
+[01:58:29] Error fetching page 911: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:29] Failed to fetch page 911
+[01:58:30] Error fetching page 912: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:30] Failed to fetch page 912
+[01:58:31] Error fetching page 913: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:31] Failed to fetch page 913
+[01:58:32] Error fetching page 914: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:32] Failed to fetch page 914
+[01:58:33] Error fetching page 915: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:33] Failed to fetch page 915
+[01:58:34] Error fetching page 916: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:34] Failed to fetch page 916
+[01:58:34] Error fetching page 917: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:34] Failed to fetch page 917
+[01:58:35] Error fetching page 918: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:35] Failed to fetch page 918
+[01:58:36] Error fetching page 919: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:36] Failed to fetch page 919
+[01:58:37] Error fetching page 920: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:37] Failed to fetch page 920
+[01:58:38] Error fetching page 921: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:38] Failed to fetch page 921
+[01:58:39] Error fetching page 922: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:39] Failed to fetch page 922
+[01:58:40] Error fetching page 923: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:40] Failed to fetch page 923
+[01:58:41] Error fetching page 924: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:41] Failed to fetch page 924
+[01:58:42] Error fetching page 925: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:42] Failed to fetch page 925
+[01:58:43] Error fetching page 926: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:43] Failed to fetch page 926
+[01:58:44] Error fetching page 927: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:44] Failed to fetch page 927
+[01:58:45] Error fetching page 928: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:45] Failed to fetch page 928
+[01:58:46] Error fetching page 929: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:46] Failed to fetch page 929
+[01:58:47] Error fetching page 930: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:47] Failed to fetch page 930
+[01:58:48] Error fetching page 931: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:48] Failed to fetch page 931
+[01:58:48] Error fetching page 932: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:48] Failed to fetch page 932
+[01:58:49] Error fetching page 933: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:49] Failed to fetch page 933
+[01:58:50] Error fetching page 934: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:50] Failed to fetch page 934
+[01:58:51] Error fetching page 935: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:51] Failed to fetch page 935
+[01:58:52] Error fetching page 936: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:52] Failed to fetch page 936
+[01:58:53] Error fetching page 937: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:53] Failed to fetch page 937
+[01:58:54] Error fetching page 938: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:54] Failed to fetch page 938
+[01:58:55] Error fetching page 939: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:55] Failed to fetch page 939
+[01:58:56] Error fetching page 940: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:56] Failed to fetch page 940
+[01:58:57] Error fetching page 941: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:57] Failed to fetch page 941
+[01:58:58] Error fetching page 942: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:58] Failed to fetch page 942
+[01:58:59] Error fetching page 943: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:58:59] Failed to fetch page 943
+[01:59:00] Error fetching page 944: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:00] Failed to fetch page 944
+[01:59:01] Error fetching page 945: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:01] Failed to fetch page 945
+[01:59:02] Error fetching page 946: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:02] Failed to fetch page 946
+[01:59:03] Error fetching page 947: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:03] Failed to fetch page 947
+[01:59:04] Error fetching page 948: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:04] Failed to fetch page 948
+[01:59:04] Error fetching page 949: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:04] Failed to fetch page 949
+[01:59:05] Error fetching page 950: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:05] Failed to fetch page 950
+[01:59:06] Progress saved: 20416 regulations from 950 pages
+[01:59:06] Error fetching page 951: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:06] Failed to fetch page 951
+[01:59:08] Error fetching page 952: 500 Server Error: Internal Server Error for url: https://datacenter.ortax.org/api/search/aturan
+[01:59:08] Failed to fetch page 952

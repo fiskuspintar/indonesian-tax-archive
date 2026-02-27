@@ -156,7 +156,7 @@ def scrape_all_regulations():
     # Fetch remaining pages
     print(f"\n[2] Fetching remaining {total_pages - 1} pages...")
     
-    for page_num in range(2, min(total_pages + 1, 100)):  # Limit to 100 pages for now
+    for page_num in range(2, total_pages + 1):  # Fetch ALL pages
         print(f"  Fetching page {page_num}/{total_pages}...", end=' ')
         
         page_data = fetch_page(page_num, per_page)
@@ -167,8 +167,15 @@ def scrape_all_regulations():
         else:
             print("Failed")
         
-        # Be nice to the server
-        time.sleep(0.5)
+        # Be nice to the server - longer delay for full scrape
+        time.sleep(1)
+        
+        # Save progress every 100 pages
+        if page_num % 100 == 0:
+            print(f"\n  [Checkpoint] Saving progress at page {page_num}...")
+            with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                for reg in all_regulations:
+                    f.write(json.dumps(reg, ensure_ascii=False) + '\n')
     
     print(f"\n[3] Processing {len(all_regulations)} regulations...")
     
