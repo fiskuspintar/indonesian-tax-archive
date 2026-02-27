@@ -1,0 +1,25 @@
+{
+  "scraped_at": "2026-02-28T01:34:02.986077",
+  "total_regulations": 1570,
+  "by_type": {
+    "Unknown": 500,
+    "Keputusan Menteri Keuangan": 375,
+    "Peraturan Menteri Keuangan": 378,
+    "Keputusan Direktur Jenderal Pajak": 11,
+    "Peraturan Direktur Jenderal Pajak": 51,
+    "PP": 56,
+    "UU": 13,
+    "Peraturan Dirjen Bea dan Cukai": 72,
+    "Surat Edaran Dirjen Pajak": 25,
+    "Surat Edaran Dirjen Bea dan Cukai": 8,
+    "Keputusan Dirjen Bea dan Cukai": 45,
+    "Perpres": 23,
+    "Keputusan Bersama Menteri": 9,
+    "Instruksi Presiden": 1,
+    "Keputusan Presiden": 3
+  },
+  "year_range": {
+    "min": 2015,
+    "max": 2026
+  }
+}
